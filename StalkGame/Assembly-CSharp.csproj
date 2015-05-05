@@ -46,9 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Resources\Scripts\PlayerInputController.cs" />
-     <Compile Include="Assets\Resources\Scripts\ZebraBrain.cs" />
-     <Compile Include="Assets\Resources\Scripts\ZebraMovement.cs" />
+     <Compile Include="Assets\Resources\Scripts\Gameplay\PlayerInputController.cs" />
+     <Compile Include="Assets\Resources\Scripts\Gameplay\ZebraBrain.cs" />
+     <Compile Include="Assets\Resources\Scripts\Gameplay\ZebraMovement.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity3/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

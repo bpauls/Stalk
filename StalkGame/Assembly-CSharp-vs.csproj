@@ -46,9 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Resources\Scripts\PlayerInputController.cs" />
-     <Compile Include="Assets\Resources\Scripts\ZebraBrain.cs" />
-     <Compile Include="Assets\Resources\Scripts\ZebraMovement.cs" />
+     <Compile Include="Assets\Resources\Scripts\Gameplay\PlayerInputController.cs" />
+     <Compile Include="Assets\Resources\Scripts\Gameplay\ZebraBrain.cs" />
+     <Compile Include="Assets\Resources\Scripts\Gameplay\ZebraMovement.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Fenrir/Documents/GitHub/Stalk/StalkGame/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
